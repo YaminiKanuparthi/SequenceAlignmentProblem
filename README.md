@@ -6,7 +6,9 @@ Graph1 – Memory vs Problem Size (M+N)
 ![image](https://github.com/YaminiKanuparthi/SequenceAlignmentProblem/assets/83491239/b58d4b52-ebc8-4db4-9ec2-d00841e0a8ec)
 
 Nature of the Graph (Logarithmic/ Linear/ Polynomial/ Exponential)
+
 Basic: Exponential
+
 Efficient: Linear 
 
 Explanation:  
@@ -27,7 +29,9 @@ Graph2 – Time vs Problem Size (M+N)
 ![image](https://github.com/YaminiKanuparthi/SequenceAlignmentProblem/assets/83491239/a7edbe7c-6c4e-4f29-b0f1-6b22f84e1892)
 
 Nature of the Graph (Logarithmic/ Linear/ Polynomial/ Exponential)
+
 Basic: Polynomial
+
 Efficient: Linear
 
 Explanation:
